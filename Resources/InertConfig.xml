@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<browserPath>
+	<browserName name= "chrome">drivers\chromedriver.exe</browserName>
+	<browserName name= "ie">drivers\IEDriverServer.exe</browserName>
+	<browserName name= "firefox"></browserName>
+</browserPath>
