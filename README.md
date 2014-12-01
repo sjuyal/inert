@@ -44,8 +44,8 @@ function
 Technologies Used:
 ----------------------------------------------------------------
 
-1) Apache Spark Server  - for exposing REST API
-2) Selenium Driver      - for testing user script on server
-3) IntelliJ IDEA	- for development
+1. Apache Spark Server  - for exposing REST API
+2. Selenium Driver      - for testing user script on server
+3. IntelliJ IDEA	- for development
 
 
