@@ -25,7 +25,7 @@ Steps to follow:
 Project Flow (Technical):
 ----------------------------------------------------------------
 
-User will be provided with a template jar inertdriver.jar. Jar file will contain InertDriver 
+User will be provided with a template jar. Jar file will contain InertDriver 
 which will extend the WebDriver Class of Selenium. User will run a loop getting
 all the instances of the driver i.e either chrome, firefox or internet explorer
 driver instance.
